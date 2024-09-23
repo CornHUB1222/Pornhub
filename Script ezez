@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("ezez hub", "DarkTheme")
+local Window = Library.CreateLib("ezez hub", "BloodTheme")
 
 
 local Tab = Window:NewTab("Main")
